@@ -1,0 +1,20 @@
+pwd - shows present working directory
+
+cd /c - change directory to drive c
+
+cd .. - to go back
+
+git status - shows repo
+
+up arrow key - copy command of one line above . If we press multiple times we can get commands of more above line and similarly
+
+down arrow key - can be used to go down if moved quite above the required command
+
+ls   // linux command for listing of content
+
+rm –rf  .git  //rm –rf is a linux based command that deletes all contents of folder. So we said to delete all 
+	contents of .git folder . So our folder no longer remains git repo.
+
+touch filename.extension   //creates empty file
+
+mv // linux command to move . It can also be used for renaming
